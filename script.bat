@@ -1,2 +1,2 @@
-cmd /c start "" /d "C:\Users\Mypka\Downloads" /b Proper_placement_of_brackets "(a+b)=c{sss}{}{}{{}}"
+cmd /c start "" /d "Путь до файла" /b Proper_placement_of_brackets "строка со скобками"
 pause
